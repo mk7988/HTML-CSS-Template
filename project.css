@@ -1,0 +1,70 @@
+.flx{
+    display: flex;
+    background-color: rgba(0, 0, 0, 0.5);
+    color: white;
+}
+.mar{
+   margin-left: 60%;
+    margin-top: 3%;
+    font-size: 120%;
+}
+.cls{
+    padding-bottom: 60px;
+}
+.start{
+    margin-left: 6%;
+}
+.btn{
+    text-align: center;
+    background-color:rgb(0, 0, 0,0.5);
+    );
+    padding: 7px;
+}
+.button{
+    border-radius: 8px;
+}
+.bx{
+    margin: 10px;
+    padding: 60px;
+}
+.bxx{
+      margin: 10px;
+    padding: 60px;
+}
+.boxxx{
+         margin: 10px;
+    padding: 60px;
+}
+.flxx{
+    display: flex;
+}
+.start{
+    font-size: 20px;
+    color: blue;
+}
+.atcenter{
+    text-align: center;
+}
+.flxxx{
+     display: flex;
+    
+}
+.mar{
+    margin-left: 150px;
+}
+.marr{
+    display: flex;
+}
+.txtcenter{
+    text-align: center;
+
+}
+.txtmar{
+    margin-bottom: 60px;
+}
+.add{
+     text-align: center;
+}
+.copy{
+    text-align: center;
+}
